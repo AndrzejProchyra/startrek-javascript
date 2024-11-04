@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "features": "cucumber-js",
+    "features": "cucumber-js --format 'html':'cucumber-report.html'",
     "format": "prettier --write --ignore-unknown .",
     "prepare": "husky"
   },
