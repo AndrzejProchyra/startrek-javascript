@@ -19,7 +19,7 @@
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
-    "@cucumber/cucumber": "^11.0.1",
+    "@cucumber/cucumber": "^11.1.0",
     "@eslint/js": "^9.14.0",
     "eslint": "^9.14.0",
     "eslint-config-prettier": "^9.1.0",
